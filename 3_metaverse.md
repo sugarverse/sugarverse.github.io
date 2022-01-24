@@ -1,7 +1,7 @@
 ---
 title: Sugar metaverse elements and NFTs
 has_children: false
-nav_order: 4
+nav_order: 3
 ---
 
 ## Sugar metaverse elements and NFTs
