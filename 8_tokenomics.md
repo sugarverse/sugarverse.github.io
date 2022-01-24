@@ -24,3 +24,17 @@ Initial Circulating Supply:	540 000 000 CNDY
 - Reserve. These tokens will be used for staking rewards. Any network participant can stake tokens to earn rewards and reduce supply in the ecosystem.
 - Seed, private, pre-sale and public sale. These tokens will be reserved for the different tiers of the sale.
 - Gameplay. These tokens will be used to incentivize those players who earn tokens by participating in activities in the metaverse and the game. This design is to encourage user participation in the metaverse and to maintain traction.
+
+| Type  | Percentage | Volume | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| Team | 15% | 3 000 000 000 | locked for 12 months then daily claimable for 12 months |
+| Partners  | 3% | 600 000 | 10 days cooling off period then 10%, rest daily claimable fo 12 months |
+| Dev & Game Design | 6% | 1 200 000 000 |  |
+| Community & Marketing | 12% | 2 400 000 000 |  |
+| Liquidity | 1% | 200 000 000 |  |
+| Reserve | 2% | 400 000 000 |  |
+| Seed | 4% | 800 000 000 | 10% TGE, rest daily claimable 18 months |
+| Private | 6% | 1 200 000 000 | 10% TGE, rest daily claimable 12 months |
+| Pre sale | 12% | 2 400 000 000 | 10% TGE, rest daily claimable 9 months |
+| Public | 1% | 200 000 000 | 50% TGE, rest daily claimable 2 months |
+| Gameplay | 38% | 7 600 000 000 |  |
