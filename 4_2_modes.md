@@ -1,5 +1,5 @@
 ---
-title: Rewards system
+title: Game modes and new ways to Earn-to-Play
 parent: Earn-to-Play games
 has_children: false
 nav_order: 2
