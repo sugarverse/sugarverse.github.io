@@ -3,10 +3,10 @@
 # relative_links:
 #   enabled: true
 #   collections: true
-include:
-  - README.md
+# include:
+#   - README.md
 
-title: "Remote theme example"
+title: "Sugarverse Whitepaper v0.1"
 remote_theme: pmarsceill/just-the-docs
 # color_scheme: "dark"
 search_enabled: false
