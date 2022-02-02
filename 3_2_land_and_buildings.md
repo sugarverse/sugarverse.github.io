@@ -21,7 +21,7 @@ Buildings are divided into five main types:
 
 - Mining platforms earn you an annual percentage yield. They dig deep into the planet’s mantle searching for pockets of CNDY. Discovery of CNDY is guaranteed and happens at a constant rate.  The higher the level the higher the yield efficiency of the platform.
 
-- Underground Research Centers give you a chance to find NFT treasuries. Using refined sugar radars, they scan the planet’s outer layers and discover items or avatars that are hiding just under the surface.  Upgrading the research center, you get more frequent drops and higher magic find to discover and tame rare avatars.
+- Underground Research Centers give you a chance to find NFT treasuries. Using refined sugar radars, they scan the planet’s outer layers and discover items or NFT avatars that are hiding just under the surface.  Upgrading the research center, you get more frequent drops and higher magic find to discover and tame rare avatars.
 
 - The Trading Terminal (Marketplace) gives the owners a part of the fees paid on the Sugarverse marketplace. The global marketplace is accessed via an interplanetary network of trading terminals. Each terminal gives you access to minting exclusive NFTs on top of earning rewards. The higher the level of your terminal the higher the transition volume it can handle so you earn a higher percentage fee as a reward for your participation in the network.
 
