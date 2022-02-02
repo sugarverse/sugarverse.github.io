@@ -8,6 +8,10 @@ nav_order: 8
 
 The main currency in the Sugarverse will be CNDY. It will be a utility token used throughout the Sugarverse. It is an ERC-20 token built on the Polygon network. A single token serves the greatest long-term interest of our community and will be used by gamers, developers, publishers allowing them to participate in the multiverse.
 
+## Claim CNDY token
+
+We have a in-game currency called gCNDY, it is earned as rewards for playing our games. gCNDY can be claimed for CNDY token in our marketplace and have a floating exchange rate.  New players must wait 10 days before claiming their gCNDY to CNDY swap. After that, players can claim once every 24 hours. A 1% gCNDY fee is taken when converting gCNDY into CNDY.
+
 Token ticker: CNDY
 
 Blockchain: Polygon BSC
@@ -38,3 +42,9 @@ Initial Circulating Supply:	540 000 000 CNDY
 | Pre sale | 12% | 2 400 000 000 | 10% TGE, rest daily claimable 9 months |
 | Public | 1% | 200 000 000 | 50% TGE, rest daily claimable 2 months |
 | Gameplay | 38% | 7 600 000 000 |  |
+
+![cycle](/assets/IMAGE_3.jpg)
+
+![cycle](/assets/IMAGE_2.jpg)
+
+![cycle](/assets/IMAGE_1.jpg)
