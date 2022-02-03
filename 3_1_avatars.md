@@ -16,31 +16,5 @@ Once they are minted, they can then be traded on the Sugarverse marketplace and 
 
 It was important from the get-go to design the characters in such a way that they can be used in various other partner metaverse projects as compatible avatars in the future Web3.0.
 
-<div id="post-nav" class="clearfix">
-  {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-  {% endif %}
-  {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-  {% endif %}
-</div>
-
-[Market Overview](https://sugarverse.github.io/2_market_overview.html){: .btn }
-[Land and buildings](https://sugarverse.github.io/3_2_land_and_buildings.html){: .btn }
-
-
-<span &laquo;>
-[Link button](http://example.com/){: .btn }
-</span>
-
-<span &raquo;>
-[Link button](http://example.com/){: .btn }
-</span>
-
-
-[Market Overview](https://sugarverse.github.io/2_market_overview.html){: .btn .mr-4 }
-[Land and buildings](https://sugarverse.github.io/3_2_land_and_buildings.html){: .btn .mr-4 }
-
-
-<a class="prev" href="https://sugarverse.github.io/2_market_overview.html">&laquo; Market Overview</a>
-<a class="next" href="https://sugarverse.github.io/3_2_land_and_buildings.html">Land and buildings  &raquo;</a>
+[<< Sugar metaverse elements and NFTs](https://sugarverse.github.io/3_metaverse.html){: .btn .mr-4 }
+[Land and buildings >>](https://sugarverse.github.io/3_2_land_and_buildings.html){: .btn }
