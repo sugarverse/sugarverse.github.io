@@ -10,5 +10,7 @@ The Sugarverse is a planetary galaxy made up of seven planets – combined they 
 
 The Sugarverse is connected by intense plot, which offers a whole new experience to the metaverse.
 
+---
+
 [<< Market Overview](https://sugarverse.github.io/2_market_overview.html){: .btn .mr-4 }
 [Avatars >>](https://sugarverse.github.io/3_1_avatars.html){: .btn }
