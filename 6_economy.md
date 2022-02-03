@@ -47,3 +47,6 @@ CNDY token has burning functionality. Sum of burned tokens is decided by the com
 ## Staking
 
 Defi stake rewards are introduced at the beginning of the project, until the first planet is ready for its landowners and builders. CNDY tokens can be staked to generate returns and to make the metaverse progression faster for players.
+
+[<< Technology](https://sugarverse.github.io/5_technology.html){: .btn .mr-4 }
+[Decentralized Governance >>](https://sugarverse.github.io/7_decentralised.html){: .btn }
