@@ -15,3 +15,6 @@ Our vision is for the Sugarverse to become autonomous. Tiers of voting for are:
 - Infrastructure expansion
 - Burning mechanism
 - Capital and Corporate partnerships and more.
+
+[<< Economy](https://sugarverse.github.io/6_economy.html){: .btn .mr-4 }
+[Tokenomics >>](https://sugarverse.github.io/8_tokenomics.html){: .btn }
