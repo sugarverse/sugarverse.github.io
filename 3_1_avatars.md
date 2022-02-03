@@ -24,3 +24,5 @@ It was important from the get-go to design the characters in such a way that the
     <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
   {% endif %}
 </div>
+
+<p>TEST<p>
