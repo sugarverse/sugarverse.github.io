@@ -26,3 +26,5 @@ It was important from the get-go to design the characters in such a way that the
 </div>
 
 <p>TEST<p>
+
+<a class="prev" href="https://sugarverse.github.io/2_market_overview.html">&laquo; Market Overview</a>
