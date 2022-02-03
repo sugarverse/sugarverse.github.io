@@ -31,19 +31,19 @@ Initial Circulating Supply:	540 000 000 CNDY
 
 | Type  | Percentage | Volume | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| Team | 15% | 3 000 000 000 | locked for 12 months then daily claimable for 12 months |
-| Partners  | 3% | 600 000 | 10 days cooling off period then 10%, rest daily claimable fo 12 months |
-| Dev & Game Design | 6% | 1 200 000 000 |  |
-| Community & Marketing | 12% | 2 400 000 000 |  |
-| Liquidity | 1% | 200 000 000 |  |
+| Team | 15% | 3 000 000 000 | Locked for 12 months then daily claimable for 12 months |
+| Partners & Advisors | 3% | 600 000 | 1 month cooling off period then 10%, rest daily claimable fo 12 months |
+| Dev & Game Design | 6% | 1 200 000 000 | 12 months lockup period then vesting over 36 months |
+| Community & Marketing | 11% | 2 200 000 000 | 12 months lockup period then vesting over 48 months |
+| Liquidity | 2% | 400 000 000 |  |
 | Reserve | 2% | 400 000 000 |  |
-| Seed | 4% | 800 000 000 | 10% TGE, rest daily claimable 18 months |
-| Private | 6% | 1 200 000 000 | 10% TGE, rest daily claimable 12 months |
-| Pre sale | 12% | 2 400 000 000 | 10% TGE, rest daily claimable 9 months |
-| Public | 1% | 200 000 000 | 50% TGE, rest daily claimable 2 months |
-| Gameplay | 38% | 7 600 000 000 |  |
+| Seed | 4% | 800 000 000 | 10 days cooling off period then 10% TGE, rest daily claimable 18 months |
+| Private | 6% | 1 200 000 000 | 10 days cooling off period then 10% TGE, rest daily claimable 12 months |
+| Pre sale | 11% | 2 200 000 000 | 10 days cooling off period then 10% TGE, rest daily claimable 9 months |
+| Public | 2% | 400 000 000 | 50% TGE, rest daily claimable 4 months |
+| Gameplay | 38% | 7 600 000 000 | Starts YE1 then ramps |
 
-![cycle](/assets/IMAGE_3.jpg)
+<!-- ![cycle](/assets/IMAGE_3.jpg) -->
 
 ![cycle](/assets/IMAGE_2.jpg)
 
