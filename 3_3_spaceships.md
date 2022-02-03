@@ -16,3 +16,6 @@ There are three main ship types:
 - Exploration Vessel – those ships carry special equipment to prospect, capture, and drill meteorites. The chem lab on-board looks for CNDY pockets and the bio scanners explorers to discover rare NFTs lost in space for centuries.
 
 - Passenger spaceships – the only way to travel between Sugarverse planets. If you own a passenger ship you can travel alone or other players can join you on board for a fee to travel to another planet.  Huston… we have a problem!
+
+[<< Land and buildings](https://sugarverse.github.io/3_2_land_and_buildings.html){: .btn .mr-4 }
+[Marketplace >>](https://sugarverse.github.io/3_4_marketplace.html){: .btn }
