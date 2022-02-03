@@ -21,4 +21,4 @@ Such reward mechanics make the PvP more rewarding than the PvE, however, a highe
 Guild’s mode is a competitive mode between groups of players. There are weekly, monthly, and yearly competitions between all guilds. Players can create or join guilds, only condition is to have a unique NFT avatar. Guilds have their own flags and names. The most powerful guild has benefits in the metaverse and in the Play-to-Earn games.
 
 [<< Rewards system](https://sugarverse.github.io/4_1_rewards.html){: .btn .mr-4 }
-[Technology >>]([TEXT](https://sugarverse.github.io/5_technology.html)){: .btn }
+[Technology >>](https://sugarverse.github.io/5_technology.html){: .btn }
