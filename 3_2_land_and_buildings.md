@@ -28,3 +28,6 @@ Buildings are divided into five main types:
 - Hangars for assembling spaceships. Hangars in the Sugarverse are filled with gummy bears assembling interplanetary spaceships. Inside this building players can connect spaceship parts, which are random NFT drops within the metaverse, and assemble spaceships to expand their horizon to the next planet. The higher the level of your hanger, the faster you build spaceships and the more production lines it can house; your gummy bears get instant PhDs!
 
 - The Launch Pad is needed to launch your spaceships in space, fuel them up and then send them to missions throughout the metaverse. By advancing your launch pad you can simultaneously launch multiple spaceships. However, take extreme caution when placing the launch pad, the Maple Syrup - 5000 fuel is extremely volatile and sometimes goes bang…
+
+[<< Avatars](https://sugarverse.github.io/3_1_avatars.html){: .btn .mr-4 }
+[Spaceship NFTs >>](https://sugarverse.github.io/3_3_spaceships.html){: .btn }
