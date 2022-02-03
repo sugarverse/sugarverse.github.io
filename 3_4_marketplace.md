@@ -17,4 +17,4 @@ One of the main features is a virtual marketplace where players can buy and sell
 - Maple Syrup Fuel
 
 [<< Spaceship NFTs](https://sugarverse.github.io/3_3_spaceships.html){: .btn .mr-4 }
-[Play-to-Earn games >>](https://sugarverse.github.io/4_earn_to_play_games.html){: .btn }
+[Play-to-Earn games >>](https://sugarverse.github.io/4_play_to_earn_games.html){: .btn }
