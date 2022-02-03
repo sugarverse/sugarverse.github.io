@@ -48,3 +48,6 @@ Initial Circulating Supply:	540 000 000 CNDY
 ![cycle](/assets/IMAGE_2.jpg)
 
 ![cycle](/assets/IMAGE_1.jpg)
+
+[<< Decentralized Governance](https://sugarverse.github.io/7_decentralised.html){: .btn .mr-4 }
+[Roadmap >>](https://sugarverse.github.io/9_roadmap.html){: .btn }
