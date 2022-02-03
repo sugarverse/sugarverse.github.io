@@ -15,3 +15,12 @@ The fantasy behind the avatars was inspired by various crypto icons. Such exampl
 Once they are minted, they can then be traded on the Sugarverse marketplace and on the open markets. Non-NFT avatars can not be traded on the marketplace.
 
 It was important from the get-go to design the characters in such a way that they can be used in various other partner metaverse projects as compatible avatars in the future Web3.0.
+
+<div id="post-nav" class="clearfix">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</div>
