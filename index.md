@@ -36,3 +36,5 @@ Both single and multi-player presents different terrains and maps to the player 
 ### Guilds
 
 The Sugarverse is designed to be a social place. So we are delighted to welcome our players to interact with others as much as possible and to create or join guilds, which leads to even greater rewards shared across the members.
+
+[Market overview >>](https://sugarverse.github.io/2_market_overview.html){: .btn }
