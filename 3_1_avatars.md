@@ -25,5 +25,22 @@ It was important from the get-go to design the characters in such a way that the
   {% endif %}
 </div>
 
+[Market Overview](https://sugarverse.github.io/2_market_overview.html){: .btn }
+[Land and buildings](https://sugarverse.github.io/3_2_land_and_buildings.html){: .btn }
+
+
+<span &laquo;>
+[Link button](http://example.com/){: .btn }
+</span>
+
+<span &raquo;>
+[Link button](http://example.com/){: .btn }
+</span>
+
+
+[Market Overview](https://sugarverse.github.io/2_market_overview.html){: .btn .mr-4 }
+[Land and buildings](https://sugarverse.github.io/3_2_land_and_buildings.html){: .btn .mr-4 }
+
+
 <a class="prev" href="https://sugarverse.github.io/2_market_overview.html">&laquo; Market Overview</a>
 <a class="next" href="https://sugarverse.github.io/3_2_land_and_buildings.html">Land and buildings  &raquo;</a>
