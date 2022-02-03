@@ -30,7 +30,7 @@ In recent times, the industry has seen big venture capital firms invest heavily 
 
 Even though play-to-earn games are only just emerging, the evidence suggests that players are much more engaged and the overall player satisfaction has been increased, leading to a boost in popularity over the longer term for game developers.
 
-A clear trend had been established that supported the dynamics of an online community. By adding the ability to generate a financial income, play-to-earn games are making the game and their communities a lot more active. The niche is still young, so it might be beneficial to keep an eye on these play-to-earn projects, as they can be beneficial in the long run.”
+A clear trend had been established that supported the dynamics of an online community. By adding the ability to generate a financial income, play-to-earn games are making the game and their communities a lot more active. The niche is still young, so it might be beneficial to keep an eye on these play-to-earn projects, as they can be beneficial in the long run.
 
 [<< Introduction](https://sugarverse.github.io/){: .btn .mr-4 }
 [Sugar metaverse elements and NFTs >>](https://sugarverse.github.io/3_metaverse.html){: .btn }
