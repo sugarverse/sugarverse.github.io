@@ -14,7 +14,6 @@ permalink: /
 
 The Sugarverse team is building a unique metaverse with multiple planets and integrated gaming experiences for each one of those worlds, where players can monetize their gaming experience using our native token CNDY. The team behind the project is highly experienced and passionate about delivering the ultimate metaverse experience available on the market. With previous experience in blockchain, game development, 2D and 3D art, marketing, and real-world company management we are positioned for success from day one. Building on top of successful careers in Gameloft, Ubisoft, CrazyLabs and successfully running technology startups, the experienced team can launch, execute, and grow an exciting Web 3.0 gaming metaverse that will consist of Play-to-Earn games, NFT, Metaverse, DAO and DeFi.
 
-
 ## What is the Sugarverse?
 
 Our vision is to offer a candy themed meta universe that consists of seven planets and seven integrated games. As a player you can own land, build buildings, and collect rewards in the form of (Non-Fungible Tokens, aka NFTs) and/or CNDY tokens. You can play on each planet a unique Play-to-earn mobile game which is developed in house or published on our platform together with a partner gaming studio. Our focus is on developing the highest quality casual mobile games to appeal to both crypto and non-crypto game enthusiasts - removing the barriers to entry for new crypto gamers.
