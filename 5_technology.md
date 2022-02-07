@@ -4,6 +4,8 @@ has_children: false
 nav_order: 5
 ---
 
+# Technology
+
 Our backend services will be built using containers and CI/CD pipelines as is all modern software to quickly deploy new functionality. We will be hosted on AWS but we would also write our infrastructure as code in such a way so we can as quickly as possible switch vendors if need be.
 
 We are taking advantage of first-class monitoring tools such as Datadog and Sentry. That way we can ensure the availability of the system and squash all bugs in due time.
