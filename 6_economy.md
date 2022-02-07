@@ -6,7 +6,11 @@ nav_order: 6
 
 # Economy
 
+---
+
 ![cycle](/assets/IMAGE_4.jpg)
+
+---
 
 The Sugarverse is always player first. Our focus is on building a Game-as-a-service model where features will be introduced over time.  When putting so much attention to player rewards we have developed several ways gamers will profit from the following:
 
@@ -23,7 +27,6 @@ The Sugarverse is always player first. Our focus is on building a Game-as-a-serv
   - Mining Platforms bring annual % yield
   - Trading Terminals bring in % from marketplace fees
   - Spaceships can bring in passenger transit or cargo rewards
-
 
 ## Community Treasury
 
