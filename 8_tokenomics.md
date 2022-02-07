@@ -29,6 +29,8 @@ Initial Circulating Supply:	540 000 000 CNDY
 - Seed, private, pre-sale and public sale. These tokens will be reserved for the different tiers of the sale.
 - Gameplay. These tokens will be used to incentivize those players who earn tokens by participating in activities in the metaverse and the game. This design is to encourage user participation in the metaverse and to maintain traction.
 
+---
+
 | Type  | Percentage | Volume | Description |
 | ------------- | ------------- | ------------- | ------------- |
 | Team | 15% | 3 000 000 000 | Locked for 12 months then daily claimable for 12 months |
@@ -43,11 +45,15 @@ Initial Circulating Supply:	540 000 000 CNDY
 | Public | 2% | 400 000 000 | 50% TGE, rest daily claimable 4 months |
 | Gameplay | 38% | 7 600 000 000 | Starts YE1 then ramps |
 
-<!-- ![cycle](/assets/IMAGE_3.jpg) -->
+---
 
 ![cycle](/assets/IMAGE_2.jpg)
 
+---
+
 ![cycle](/assets/IMAGE_1.jpg)
+
+---
 
 [<< Decentralized Governance](https://sugarverse.github.io/7_decentralised.html){: .btn .mr-4 }
 [Roadmap >>](https://sugarverse.github.io/9_roadmap.html){: .btn }
