@@ -11,7 +11,6 @@ To start a tour journey into the Sugarverse a player must own an avatar. There a
 
 The fantasy behind the avatars was inspired by various crypto icons. Such examples can be bulls, bears, doges, punks, shiba inus, miners, moonboys, whales, shrimps, and many others. Their outlook will be predetermined by the crypto faction the avatar belongs to.
 
-
 Once they are minted, they can then be traded on the Sugarverse marketplace and on the open markets. Non-NFT avatars can not be traded on the marketplace.
 
 It was important from the get-go to design the characters in such a way that they can be used in various other partner metaverse projects as compatible avatars in the future Web3.0.
