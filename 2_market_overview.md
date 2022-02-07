@@ -6,17 +6,17 @@ nav_order: 3
 
 # Market overview
 
-### Overall Gaming Industry
+## Overall Gaming Industry
 
 With aggressive demand the emergence of play-to-earn games has exponentially increased the expected CAGR for the gaming industry, conservative growth estimates begin from 9.34% expected CAGR heading north of 13.20% for the period 2021 to 2026. A common factor explaining the growth among all statistics is the Web 3.0. The idea for true ownership, digital scarcity and monetization has wet the appetite for both existing and new gamers which has pushed the industry into exponential growth potential. At the end of 2020, the global gaming market was reportedly worth $170 billion; it is now expected to top $300 billion by 2026. This makes it one of the hottest markets on the planet.
 
-### Mobile Gaming Sector
+## Mobile Gaming Sector
 
 The mobile gaming sector is also set to follow the trend for the overall gaming industry of between 10% to 13% CAGR, however, the main geographical region set for adoption is Asia-Pacific in particular the South East Asia region.  With over 3.07 billion overall gamers worldwide and 1.75 billion monthly mobile gamers in 2020 the mobile gaming market is vast and the opportunity for rapid growth is clearly visible.  Most profitable categories for 2020 being Puzzle, Casino and RPG and the most downloaded categories are Puzzle, Runner, RPG.
 
 In 2020, the mobile applications industry saw customers collectively spend $143 billion. Gaming apps took a huge $100 billion of that amount. This implied that, for every dollar that was spent on the Google Play Store (for Android devices) and the App Store (for Apple devices), games took a hefty 70% of it. It is estimated that over $120 billion will still be spent on mobile games in 2021. This will represent a 20% increase from the figures of 2020.
 
-### Old vs New gaming economy
+## Old vs New gaming economy
 
 “Traditionally gaming has always been a one-sided relationship, where the developers or owners of a game get the financial gains, while players are not financially rewarded. The perception about games was that they were just a way of having fun.
 
