@@ -18,11 +18,11 @@ In 2020, the mobile applications industry saw customers collectively spend $143 
 
 ## Old vs New gaming economy
 
-“Traditionally gaming has always been a one-sided relationship, where the developers or owners of a game get the financial gains, while players are not financially rewarded. The perception about games was that they were just a way of having fun.
+Traditionally gaming has always been a one-sided relationship, where the developers or owners of a game get the financial gains, while players are not financially rewarded. The perception about games was that they were just a way of having fun.
 
 However, a new economic model has emerged, which rewards players in exchange for their time spent on playing the game, it is called play-to-earn. This model has become incredibly popular in the Web 3.0 vision and matches perfectly for the introduction to the Metaverse.
-“
-Metaverse” is a combination of the prefix “meta,” which means beyond, and “universe.” So, the Metaverse is a world beyond the universe. An otherworldly place, so to speak. In the Metaverse, virtual lands, avatars and even buildings can be bought and sold for cryptocurrencies. In these virtual environments, people can move around freely with their friends, attend events, and buy goods and services — basically, doing the exact same things they can do in the real world.
+
+“Metaverse” is a combination of the prefix “meta,” which means beyond, and “universe.” So, the Metaverse is a world beyond the universe. An otherworldly place, so to speak. In the Metaverse, virtual lands, avatars and even buildings can be bought and sold for cryptocurrencies. In these virtual environments, people can move around freely with their friends, attend events, and buy goods and services — basically, doing the exact same things they can do in the real world.
 
 The play-to-earn gaming model embraces the idea of an open economy and financially rewards every user who adds value by playing and spending time in the gaming ecosystem. With the emergence of this model games are no longer “just for fun” and now are perceived as investment opportunities.
 
