@@ -4,6 +4,8 @@ has_children: false
 nav_order: 10
 ---
 
+# Team
+
 The team behind the Sugarverse have vast experience in gaming, 3d design and scaling technology companies. Overall team consists of 15 members.
 
 **Nikolay Mitev** – co-founder & CEO -  is a serial entrepreneur with an extensive experience in Blockchain, gambling, gaming, marketing, shared economy and knowledge in cryptocurrency industry in particular. Invested in numerous startups, some of which got funded millions of dollars and become well-known brands in their industries.
