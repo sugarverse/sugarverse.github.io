@@ -10,7 +10,7 @@ The main currency in the Sugarverse will be CNDY. It will be a utility token use
 
 ## Claim CNDY token
 
-We have a in-game currency called gCNDY, it is earned as rewards for playing our games. gCNDY can be claimed for CNDY token in our marketplace and have a floating exchange rate.  New players must wait 10 days before claiming their gCNDY to CNDY swap. After that, players can claim once every 24 hours. A 1% gCNDY fee is taken when converting gCNDY into CNDY.
+CNDY token will be connected with the in-game currency gCNDY. Players can claim CNDY token from gCNDY earned in the games using a floating exchange rate. First CNDY claiming requires the player’s account to have been created for at least 10 days. After that, players can claim once every 24 hours. A 1% fee based on CNDY claimed will be charged in gCNDY.
 
 Token ticker: CNDY
 
@@ -35,15 +35,16 @@ Initial Circulating Supply:	540 000 000 CNDY
 | ------------- | ------------- | ------------- | ------------- |
 | Team | 15% | 3 000 000 000 | Locked for 12 months then daily claimable for 12 months |
 | Partners & Advisors | 3% | 600 000 | 1 month cooling off period then 10%, rest daily claimable fo 12 months |
-| Dev & Game Design | 6% | 1 200 000 000 | 12 months lockup period then vesting over 36 months |
-| Community & Marketing | 11% | 2 200 000 000 | 12 months lockup period then vesting over 48 months |
-| Liquidity | 2% | 400 000 000 |  |
+| Dev & Game Design | 6% | 1 200 000 000 |  |
+| Community & Marketing | 12% | 2 200 000 000 |  |
+| Liquidity | 1% | 400 000 000 |  |
 | Reserve | 2% | 400 000 000 |  |
-| Seed | 4% | 800 000 000 | 10 days cooling off period then 10% TGE, rest daily claimable 18 months |
-| Private | 6% | 1 200 000 000 | 10 days cooling off period then 10% TGE, rest daily claimable 12 months |
-| Pre sale | 11% | 2 200 000 000 | 10 days cooling off period then 10% TGE, rest daily claimable 9 months |
-| Public | 2% | 400 000 000 | 50% TGE, rest daily claimable 4 months |
-| Gameplay | 38% | 7 600 000 000 | Starts YE1 then ramps |
+| Seed | 4% | 800 000 000 | 10 days cooling off period than 10%, rest daily claimable 18 months |
+| Private | 6% | 1 200 000 000 | 10 days cooling off period than 10%, rest daily claimable 12 months |
+| Pre sale | 8% | 1 600 000 000 | 10 days cooling off period than 10%, rest daily claimable 9 months |
+| Public | 1% | 200 000 000 | 20% TGE, rest daily claimable 4 months |
+| Auction | 4% | 800 000 000 | 100% TGE |
+| Gameplay | 38% | 7 600 000 000 |  |
 
 ---
 
