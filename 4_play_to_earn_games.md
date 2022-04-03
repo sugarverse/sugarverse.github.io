@@ -10,5 +10,5 @@ With a total of 7 games in our pipeline, all will belong to the new gaming econo
 
 ---
 
-[<< Marketplace](https://sugarverse.github.io/3_4_marketplace.html){: .btn .mr-4 }
+[<< Marketplace](https://sugarverse.github.io/3_5_marketplace.html){: .btn .mr-4 }
 [Rewards system >>](https://sugarverse.github.io/4_1_rewards.html){: .btn }
