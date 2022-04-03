@@ -6,18 +6,20 @@ nav_order: 10
 
 # Team
 
-The team behind the Sugarverse have vast experience in gaming, 3d design and scaling technology companies. Overall team consists of 15 members.
+The team behind the Sugarverse have vast experience in gaming, 3d design and scaling technology companies. Overall team consists of 15 members with experience in Gameloft, Crazy Labs and worked with international companies such as Mercedes-Benz, BMW, Nike, Adidas and Red Bull.
 
 **Nikolay Mitev** – co-founder & CEO -  is a serial entrepreneur with an extensive experience in Blockchain, gambling, gaming, marketing, shared economy and knowledge in cryptocurrency industry in particular. Invested in numerous startups, some of which got funded millions of dollars and become well-known brands in their industries.
 LinkedIn:
 
-**Philip Balkanski** – co-founder & COO – has spent 16 years in the UK where he completed his education with a Bachelors of Banking and Finance from Cass University. Then went on to found the largest consumer printing application with a community of over 450,000 active customers. He spent years growing the company through numerous rounds of financing. Philip is currently passionate about crypto projects and has deep understanding of running large technical teams with a financial background in scaling companies.
+**Philip Balkanski** – co-founder & COO – has spent 16 years in the UK where he completed his education with a Bachelors of Banking and Finance from Cass University. Then went on to establish a tech start-up called Printt that grew to be the largest consumer printing application in the UK with a community of over 450,000 active customers. He spent years growing the company though numerous rounds of financing. Philip is currently passionate about crypto projects and has deep understanding of running large technical teams with a financial background in scaling companies.
 LinkedIn:
 
 **Maxim Dimitrov** - CTO - Enjoys creative problem-solving projects. Currently a senior mobile developer, highly proficient with over 5 years of experience. Previously has been involved in crypto projects as a developer. Maxim has developed a wide range of mobile applications using Kotlin, Flutter, Swift. He believes his main skills come from the ability to learn quickly and efficiently, helping with project management, as well as the others from the team.  In the SugarVerse he is responsible for designing, creating and implementing client facing web and mobile interfaces.
 LinkedIn:
 
 **Iliyan Markov** – SVP Engineering - 10+ years of experience in devops, cloud infrastructure, backend development, product development, network management and team management. Worked for companies listed on NASDAQ, worked for companies servicing the needs of the creative industry in the UK and US like Pinewood studios, Technicolor, Warner Bros, Bad Robot, Universal, Netflix etc. Currently working in the startup environment, building ideas from scratch in a search for that horse like creature with a single horn.
+
+**Aleks K** – Game Developer - TBA
 
 **Aleks Karaatanasov** – iOS Lead - is extremely passionate about iOS development and automation. With over 5 years of experience in iOS development, he has worked on applications scaling hundreds of thousands of monthly users. Aleks is an expert with Swift and has great understanding of developing AR projects using the Apple AR kit. Very enerjectic and highly motivated, Aleks is leading the Team for iOS development in the SugarVerse.
 
@@ -36,6 +38,8 @@ LinkedIn:
 **Kally** – 2D Animator - consistently working for success and improvements. She can bring forth the ability to design complex animation elements, edit static images to produce the illusion of motion. She pushes the limits of time, using and cheating with scripts. 2D animator in SugarVerse, responsible for Idle effects, bringing the characters to life and creating the UI/UX for the website. Successfully completed several projects in the gaming industry, and highly passionate to grow within the sphere.
 
 **Drew** - Virtual production director - Working in the industry for 10 years with Unreal Engine, Blender and Adobe suite. Worked with brands like Nike, Adidas, LG, Lakenzie and Artist like Slimesunday, Carl Cox and Ben Klock. Highly passionate about his work and always strives for perfection.
+
+**Stella** - Lead UI/UX & Graphic design – Incredibly passionate about graphic design and focused on the UI/UX part of the Sugarverse. Stella is leading the branding for the Sugarverse and ensures our users can navigate through the interface of the platform. Stella has previously worked on hugely popular mobile app designs and has focused on perfecting user flows for over 3 years now. Incredibly passionate about making the Sugarvese look as magical as it can be to entice its audience.
 
 [<< Roadmap](https://sugarverse.github.io/9_roadmap.html){: .btn .mr-4 }
 [Partners >>](https://sugarverse.github.io/11_partners.html){: .btn }
