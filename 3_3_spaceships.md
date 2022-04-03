@@ -18,4 +18,4 @@ There are three main ship types:
 - Passenger spaceships – the only way to travel between Sugarverse planets. If you own a passenger ship you can travel alone or other players can join you on board for a fee to travel to another planet.  Huston… we have a problem!
 
 [<< Land and buildings](https://sugarverse.github.io/3_2_land_and_buildings.html){: .btn .mr-4 }
-[Marketplace >>](https://sugarverse.github.io/3_4_marketplace.html){: .btn }
+[CNDY Boxes >>](https://sugarverse.github.io/3_4_cndy_boxes.html){: .btn }
