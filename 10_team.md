@@ -42,4 +42,4 @@ LinkedIn:
 **Stella** - Lead UI/UX & Graphic design – Incredibly passionate about graphic design and focused on the UI/UX part of the Sugarverse. Stella is leading the branding for the Sugarverse and ensures our users can navigate through the interface of the platform. Stella has previously worked on hugely popular mobile app designs and has focused on perfecting user flows for over 3 years now. Incredibly passionate about making the Sugarvese look as magical as it can be to entice its audience.
 
 [<< Roadmap](https://sugarverse.github.io/9_roadmap.html){: .btn .mr-4 }
-[Partners >>](https://sugarverse.github.io/11_partners.html){: .btn }
+[Advisors >>](https://sugarverse.github.io/11_advisors.html){: .btn }
