@@ -21,7 +21,7 @@ Our vision is to offer a candy themed meta universe that consists of seven plane
 Our aim is to disrupt the market by providing a true gaming experience within our metaverse. Fully benefiting from the accelerated adoption of blockchain gaming, meanwhile providing a distribution platform for gaming studios to work with.
 Sugarverse is a metaverse that is truly owned by our users - all assets in the game are represented as NFTs - non-fungible tokens and can be exported and traded on open markets. The in-game transactions are all recorded on the blockchain to ensure that there is no centralized party that could tamper the game results.
 
-We issue a native token, CNDY, as the governance token as well as the necessary currency for the gameplay of the games and trade on the marketplace. It’s the default currency in the Sugarverse world. We also have in-game points gCNDY, earned in the games and exchanged for CNDY token.
+We issue a native token, CNDY, as the governance token as well as the necessary currency for the gameplay of the games and trade on the marketplace. It’s the default currency in the Sugarverse world. We also have an in-game points gCNDY, earned by playing the games and can be exchanged for CNDY token on our marketplace.
 
 ## Game structure
 
