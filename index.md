@@ -21,11 +21,11 @@ Our vision is to offer a candy themed meta universe that consists of seven plane
 Our aim is to disrupt the market by providing a true gaming experience within our metaverse. Fully benefiting from the accelerated adoption of blockchain gaming, meanwhile providing a distribution platform for gaming studios to work with.
 Sugarverse is a metaverse that is truly owned by our users - all assets in the game are represented as NFTs - non-fungible tokens and can be exported and traded on open markets. The in-game transactions are all recorded on the blockchain to ensure that there is no centralized party that could tamper the game results.
 
-We issue a native token, CNDY, as the governance token as well as the necessary currency for the gameplay of the games and trade on the marketplace. It’s the default currency in the Sugarverse world. We also have an in-game points gCNDY, earned by playing the games and can be exchanged for CNDY token on our marketplace.
+We issue a native token, CNDY, as the governance token as well as the necessary currency for the gameplay and trade on the marketplace. It’s the default currency in the Sugarverse world. We also have an in-game points gCNDY, earned by playing the games and can be exchanged for CNDY token on our marketplace.
 
 ## Game structure
 
-Players can explore our games in single player mode, which would allow them to earn token and NFT rewards and advance their characters. This game mode will have limited daily gameplay in the form of lives and has a daily cap on the rewards earned, encouraging returning players.
+Players can explore our games in single player mode, which would allow them to earn gCNDY and NFT rewards and advance their characters. This game mode will have limited daily gameplay in the form of lives and has a daily cap on the rewards earned, encouraging returning players.
 Multiplayer is something we are incredibly focused on as a team as this provides players with the engagement necessary to advance in the development of the metaverse. This unique mode pairs 3 players against each other and has a certain gCNDY buy-in (different for each lobby).  At the start of the match, the 3 players are faced with a mechanic which chooses a random juicy reward they will be competing for.
 
 Some reward examples are:
@@ -34,7 +34,7 @@ Some reward examples are:
 - Unique NFTs only obtainable in Multiplayer
 - Cosmetics for their characters
 
-Both single and multi-player presents different terrains and maps to the player as well as tasks and achievements to conquer rewarding the players for every move they make within our metaverse.
+Both single and multiplayer presents different terrains and maps to the player as well as tasks and achievements to conquer rewarding the players for every move they make within our metaverse.
 
 ## Guilds
 
