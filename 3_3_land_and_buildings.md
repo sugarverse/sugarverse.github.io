@@ -30,4 +30,4 @@ Buildings are divided into five main types:
 - The Launch Pad is needed to launch your spaceships in space, fuel them up and then send them to missions throughout the metaverse. By advancing your launch pad you can simultaneously launch multiple spaceships. However, take extreme caution when placing the launch pad, the Maple Syrup - 5000 fuel is extremely volatile and sometimes goes bang…
 
 [<< Minting](https://sugarverse.github.io/3_2_minting.html){: .btn .mr-4 }
-[Spaceship NFTs >>](https://sugarverse.github.io/3_3_spaceships.html){: .btn }
+[Spaceship NFTs >>](https://sugarverse.github.io/3_4_spaceships.html){: .btn }
