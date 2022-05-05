@@ -31,17 +31,16 @@ Initial Circulating Supply:	610 000 000 CNDY
 
 | Type  | Percentage | Volume | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| Team | 15% | 3 000 000 000 | Locked for 12 months then daily claimable for 12 months |
-| Partners & Advisors | 3% | 600 000 | 1 month cooling off period then 10%, rest daily claimable fo 12 months |
+| Team | 15% | 3 000 000 000 | Locked for 12 months then 8.33% per month for 12 months |
+| Partners & Advisors | 3% | 600 000 000 | 1 month cooling off period then 10% first month, rest 5% per month, vesting period 18 months |
 | Dev & Game Design | 6% | 1 200 000 000 |  |
-| Community & Marketing | 12% | 2 200 000 000 |  |
-| Liquidity | 1% | 400 000 000 |  |
+| Community & Marketing | 11% | 2 200 000 000 |  |
+| Liquidity | 2% | 400 000 000 |  |
 | Reserve | 2% | 400 000 000 |  |
-| Seed | 4% | 800 000 000 | 10 days cooling off period than 10%, rest daily claimable 18 months |
-| Private | 6% | 1 200 000 000 | 10 days cooling off period than 10%, rest daily claimable 12 months |
-| Pre sale | 8% | 1 600 000 000 | 10 days cooling off period than 10%, rest daily claimable 9 months |
-| Public | 1% | 200 000 000 | 20% TGE, rest daily claimable 4 months |
-| Auction | 4% | 800 000 000 | 100% TGE |
+| Seed | 4% | 800 000 000 | 10% TGE, rest 5% per month, vesting period 18 months |
+| Private | 6% | 1 200 000 000 | 10% TGE, rest 7.5% per month, vesting period 12 months |
+| Pre sale | 11% | 2 200 000 000 | 15% TGE, rest 7.083% per month, vesting period 12 months |
+| Public | 2% | 400 000 000 | 20% TGE, rest 13.33% per month, vesting period 6 months |
 | Gameplay | 38% | 7 600 000 000 |  |
 
 ---
