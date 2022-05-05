@@ -6,7 +6,7 @@ nav_order: 5
 
 # Technology
 
-Our backend services will be built using containers and CI/CD pipelines as is all modern software to quickly deploy new functionality. We will be hosted on AWS but we would also write our infrastructure as code in such a way so we can as quickly as possible switch vendors if need be.
+Blockchain technology is used to record ownership of the tokens and to allow their owners to transfer, sell or buy them on the open market. Our backend services will be built using containers and CI/CD pipelines as is all modern software to quickly deploy new functionality. We will be hosted on AWS but we would also write our infrastructure as code in such a way so we can as quickly as possible switch vendors if need be.
 
 We are taking advantage of first-class monitoring tools such as Datadog and Sentry. That way we can ensure the availability of the system and squash all bugs in due time.
 
@@ -20,5 +20,5 @@ Mobile applications will be built using their respective ecosystems - Kotlin and
 
 DDOS protection is provided by Cloudflare.
 
-[<< Game modes and new ways to Earn-to-Play](https://sugarverse.github.io/4_2_modes.html){: .btn .mr-4 }
+[<< Guilds](https://sugarverse.github.io/4_4_guilds.html){: .btn .mr-4 }
 [Economy >>](https://sugarverse.github.io/6_economy.html){: .btn }
