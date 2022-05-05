@@ -16,5 +16,5 @@ One of the main features is a virtual marketplace where players can buy and sell
 - Spaceship Parts
 - Maple Syrup Fuel
 
-[<< CNDY Boxes](https://sugarverse.github.io/3_4_cndy_boxes.html){: .btn .mr-4 }
+[<< CNDY Boxes](https://sugarverse.github.io/3_5_cndy_boxes.html){: .btn .mr-4 }
 [Play-to-Earn games >>](https://sugarverse.github.io/4_play_to_earn_games.html){: .btn }
