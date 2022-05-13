@@ -39,7 +39,7 @@ Initial Circulating Supply:	610 000 000 CNDY
 | Reserve | 2% | 400 000 000 |  |
 | Seed | 4% | 800 000 000 | 10% TGE, rest 5% per month, vesting period 18 months |
 | Private | 6% | 1 200 000 000 | 10% TGE, rest 7.5% per month, vesting period 12 months |
-| Pre sale | 11% | 2 200 000 000 | 15% TGE, rest 7.083% per month, vesting period 12 months |
+| Pre sale | 11% | 2 200 000 000 | 10% TGE, rest 7.083% per month, vesting period 12 months |
 | Public | 2% | 400 000 000 | 20% TGE, rest 13.33% per month, vesting period 6 months |
 | Gameplay | 38% | 7 600 000 000 |  |
 
