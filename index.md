@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /
 ---
 
-![Sugarverse](/assets/Sugarverse-intro.png)
+![Sugarverse](/assets/sugarverse-intro-v2.png)
 
 ---
 
