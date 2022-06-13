@@ -6,6 +6,8 @@ nav_order: 11
 
 # Advisors
 
+**Nikola Alexandrov** - Co-founder and ideator of HydraChain (HYDRA) and CEO of LockTrip.com (LOC), Nikola has seven years of experience with liquidity and high-frequency algorithmic trading systems and is an architect of multiple custom technical trading indicators. Nikola holds a BA in Business Administration from Portsmouth University. He co-founded the Bitcoin7 exchange back in 2011 and is the CEO of theSEO.bg agency.
+
 **James Boyce** - Financial Advisor - James has over 11 years of experience in derivatives trading. In 2010 James moved to London where he became a discretionary global macro trader at Tower Trading Group (TTG). While at TTG James gained experience in the traditional markets trading a wide variety of products in FX, Bonds, Commodities and Equities. In 2017 James first invested in cryptocurrencies and started to determine ways by which he could use his experience to profit from them. He moved to Panima Capital Management in October 2018 to further his knowledge and experience, as well as to trade within a hedge fund environment. As the opportunities grew in the cryptocurrency space, James focused his attention in this area, drawing on his wealth of experience in his traditional derivatives trading career. In late 2020 new and diverse protocols started to appear that allowed for new and exciting opportunities. James launched Quinn Digital Assets Fund in 2022 with a focus solely on cryptocurrency assets and decentralised finance.
 
 **Lithum Ventures** – Advisor – TBA
