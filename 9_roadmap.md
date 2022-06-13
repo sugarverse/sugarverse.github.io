@@ -6,27 +6,28 @@ nav_order: 9
 
 # Roadmap
 
-- Concept - Q4 2021
-- Team building – Q4 2021
+- Concept - Q1 2022
+- Team building – Q1 2022
 - Company Incorporation - Q1 2022
 - Website Release Q1 2022
 - Whitepaper Q1 2022
 - Early Adopters Rounds Open Q2 2022
-- Public Sale Q2 2022
-- Token Minting Q2 2022
-- Token Security Audit Q2 2022
-- Staking Launch Q2 2022
-- Marketplace Live Q2 2022
-- Avatar NFT first series sale Q2 2022
-- Wallet Integration Q3 2022
-- NFT land sale Q3 2022
-- Avatar NFT second series sale Q3 2022
-- Intro Video Metaverse Q4 2022
-- Metaverse Launch Q4 2022
+- Sugarverse AR Experience Q2 2022
+- Intro Video Metaverse Q2 2022
+- Token Minting Q3 2022
+- Public Sale Q3 2022
+- Token Security Audit Q3 2022
+- Staking Launch Q3 2022
+- Marketplace Live Q4 2022
+- Avatar NFT first series sale Q4 2022
+- Wallet Integration Q4 2022
+- NFT land sale Q4 2022
+- Game trailer Q4 2022
 - Game Alpha Testing Q4 2022
 - Buildings NFTs launch Q4 2022
-- Spaceships and spaceships parts NFTs launch Q4 2022
-- Game trailer Q1 2023
+- Avatar NFT second series sale Q1 2023
+- Metaverse Launch Q1 2023
+- Spaceships and spaceships parts NFTs launch Q1 2023
 - Game Beta Testing Q1 2023
 - First game launch Q1 2023
 - Game iOS/Android release Q1 2023
