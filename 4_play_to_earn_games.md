@@ -11,4 +11,4 @@ With a total of 7 games in our pipeline, all will belong to the new gaming econo
 ---
 
 [<< Marketplace](https://sugarverse.github.io/3_6_marketplace.html){: .btn .mr-4 }
-[Sugar Rush - the first game >>](https://sugarverse.github.io/4_0_1_sugar_match_game.html){: .btn }
+[Sugar Match - the first game >>](https://sugarverse.github.io/4_0_1_sugar_match_game.html){: .btn }

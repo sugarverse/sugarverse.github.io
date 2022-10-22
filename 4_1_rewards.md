@@ -11,5 +11,5 @@ Each new planet is hosting a new game. However, older planets experience diminis
 
 ---
 
-[<< Sugar Rush - the first game](https://sugarverse.github.io/4_0_1_sugar_match_game.html){: .btn .mr-4 }
+[<< Sugar Match - the first game](https://sugarverse.github.io/4_0_1_sugar_match_game.html){: .btn .mr-4 }
 [Campaign >>](https://sugarverse.github.io/4_2_campaign.html){: .btn }
