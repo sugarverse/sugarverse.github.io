@@ -16,34 +16,33 @@ CNDY token will be connected with the in-game currency gCNDY. Players can claim 
 
 Token ticker: CNDY
 
-Total supply:	20 000 000 000 CNDY
+Total supply:	6 000 000 000 CNDY
 
-Initial Circulating Supply:	610 000 000 CNDY
+Initial Circulating Supply:	181 000 000 CNDY
 
 - Team. These tokens are allocated to founding and non-founding members of Sugarverse.
-- Partners and advisors. These tokens are allocated to  our most valuable partners and advisors.
+- Partners and advisors. These tokens are allocated to our most valuable partners and advisors.
 - Dev/Game design. Metaverse and games development.
 - Community and marketing. These tokens will be used for various ecosystem-building initiatives, including marketing, bounties, incentive programs and more.
 - Liquidity. These tokens will be used for adding liquidity on exchanges/marketplace.
-- Reserve. These tokens will be used for staking rewards. Any network participant can stake tokens to earn rewards and reduce supply in the ecosystem.
-- Seed, private, pre-sale and public sale. These tokens will be reserved for the different tiers of the sale.
+- Angel, Seed, Public and Launchpads. These tokens will be reserved for the different tiers of the sale.
 - Gameplay. These tokens will be used to incentivize those players who earn tokens by participating in activities in the metaverse and the game. This design is to encourage user participation in the metaverse and to maintain traction.
 
 ---
 
-| Type  | Percentage | Volume | Description |
+| Party  | Percentage | Total tokens | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| Team | 15% | 3 000 000 000 | Locked for 12 months then 8.33% per month for 12 months |
-| Partners & Advisors | 3% | 600 000 000 | 1 month cooling off period then 10% first month, rest 5% per month, vesting period 18 months |
-| Dev & Game Design | 6% | 1 200 000 000 |  |
-| Community & Marketing | 11% | 2 200 000 000 |  |
-| Liquidity | 2% | 400 000 000 |  |
-| Reserve | 2% | 400 000 000 |  |
-| Seed | 4% | 800 000 000 | 10% TGE, rest 5% per month, vesting period 18 months |
-| Private | 6% | 1 200 000 000 | 10% TGE, rest 7.5% per month, vesting period 12 months |
-| Pre sale | 11% | 2 200 000 000 | 10% TGE, rest 7.5% per month, vesting period 12 months |
-| Public | 2% | 400 000 000 | 20% TGE, rest 13.33% per month, vesting period 6 months |
-| Gameplay | 38% | 7 600 000 000 |  |
+| Team | 16.67% | 1 000 000 000 | 1 year locked, rest vesting next 12 months |
+| Partners & Advisors | 5% | 300 000 000 | 1 year locked, rest vested next 12 months |
+| Dev & Game Design | 5% | 300 000 000 | 1 year locked, rest vesting next 48 months |
+| Marketing | 5% | 300 000 000 | 1 year locked, rest vesting next 48 months |
+| Liquidity | 8.33% | 500 000 000 | 25% TGE rest vesting 12 months |
+| Angel | 2.60% | 156 000 000 | Lockup 6 months, vesting period 12 months |
+| Seed | 10.33% | 620 000 000 | Lockup 6 months, vesting period 12 months |
+| Public Sale | 20.83% | 280 000 000 | Lockup 6 months, vesting period 12 months |
+| Launchpads | 4.67% | 2 200 000 000 | 20%, cliff 3 months, vesting 6 months |
+| Gameplay | 21.57% | 1 294 000 000 | 1 year locked, rest vested next 48 months |
+| Total | 100% | 6 000 000 000 | |
 
 ---
 
