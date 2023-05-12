@@ -30,7 +30,7 @@ Initial Circulating Supply:	181 000 000 CNDY
 
 ---
 
-| Party  | Percentage | Total tokens | Description |
+| Party | Percentage | Total tokens | Vesting |
 | ------------- | ------------- | ------------- | ------------- |
 | Team | 16.67% | 1 000 000 000 | 1 year locked, rest vesting next 12 months |
 | Partners & Advisors | 5% | 300 000 000 | 1 year locked, rest vested next 12 months |
