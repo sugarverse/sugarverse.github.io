@@ -22,5 +22,5 @@ DDOS protection is provided by Cloudflare.
 
 ---
 
-[<< Guilds](https://sugarverse.github.io/4_4_guilds.html){: .btn .mr-4 }
+[<< Play-to-Earn games](https://sugarverse.github.io/4_play_to_earn_games.html){: .btn .mr-4 }
 [Economy >>](https://sugarverse.github.io/6_economy.html){: .btn }
