@@ -10,5 +10,5 @@ With a total of 5 games in our pipeline, all will belong to the new gaming econo
 
 ---
 
-[<< Marketplace](https://sugarverse.github.io/3_6_marketplace.html){: .btn .mr-4 }
+[<< Sugar Bear NFTs](https://sugarverse.github.io/3_nfts.html){: .btn .mr-4 }
 [Sugar Match - the first game >>](https://sugarverse.github.io/4_0_1_sugar_match_game.html){: .btn }
