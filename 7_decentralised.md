@@ -6,7 +6,7 @@ nav_order: 7
 
 # Decentralized Governance
 
-Sugarverse is a metaverse that is owned by the players and token holders. The implementation of a decentralized governance structure we provide the bedrock for policies in the metaverse to be decided on by the token holders.
+Sugarverse is a game saga that is owned by the players and token holders. The implementation of a decentralized governance structure we provide the bedrock for policies in the web3 gaming to be decided on by the token holders.
 
 Our vision is for the Sugarverse to become autonomous. Tiers of voting for are:
 - Treasury
