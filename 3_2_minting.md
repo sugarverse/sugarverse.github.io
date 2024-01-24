@@ -1,8 +1,8 @@
 ---
 title: Minting
-parent: Sugar metaverse elements and NFTs
+parent: Sugar Bear NFTs
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 # Minting
@@ -33,5 +33,6 @@ The new avatar type is determined by the two Prime avatar types:
 
 ---
 
-[<< Avatars](https://sugarverse.github.io/3_1_avatars.html){: .btn .mr-4 }
-[Land and buildings >>](https://sugarverse.github.io/3_3_land_and_buildings.html){: .btn }
+[<< Sugar Bear NFTs](https://sugarverse.github.io/3_nfts.html){: .btn .mr-4 }
+<!-- [Land and buildings >>](https://sugarverse.github.io/3_3_land_and_buildings.html){: .btn } -->
+[CNDY Boxes >>](https://sugarverse.github.io/3_5_cndy_boxes.html){: .btn }
