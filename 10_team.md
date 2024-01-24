@@ -33,7 +33,7 @@ Has spent 16 years in the UK where he completed his education with a Bachelors o
 
 **Hristo Tenchev**
 
-CEO XS Software
+Board Member
 
 Co-founder of LockTrip, HydraChain and Bitcoin7. Founder of XS Software, a gaming company with more than 60M registered players. Co-founder at Softuni  - an innovative IT education centre with more than 300,000 students. He was listed in the European Forbes “30 under 30” as one of the most successful entrepreneurs in 2016.
 
@@ -41,7 +41,7 @@ Co-founder of LockTrip, HydraChain and Bitcoin7. Founder of XS Software, a gamin
 
 **Rado Tenchev**
 
-CTO XS Software
+Board Member
 
 An avid gamer since childhood, Radoslav started his career in gaming 12 years ago. Beginning at the lowest ranks and rising through the entire development and marketing processes of a game, became the CTO of XS Software in 2017. Taking on different roles in the company, Radoslav has developed a love for game design and hasn’t stopped creating ideas ever since.
 
@@ -55,11 +55,11 @@ Peter co-founded and acted as strategic thought leader for a virtual multi-famil
 
 ---
 
-**Maxim Dimitrov**
+**Iliyan Markov**
 
-CTO Sugarverse
+CTO
 
-Enjoys creative problem-solving projects. Currently a senior mobile developer, highly proficient with over 5 years of experience. Previously has been involved in crypto projects as a developer. Maxim has developed a wide range of mobile applications using Kotlin, Flutter, Swift. He believes his main skills come from the ability to learn quickly and efficiently, helping with project management, as well as the others from the team. In the Sugarverse he is responsible for designing, creating and implementing client facing web and mobile interfaces.
+10+ years of experience in devops, cloud infrastructure, backend development, product development, network management and team management. Worked for companies listed on NASDAQ, worked for companies servicing the needs of the creative industry in the UK and US like Pinewood studios, Technicolor, Warner Bros, Bad Robot, Universal, Netflix etc. Currently working in the startup environment, building ideas from scratch in a search for that horse like creature with a single horn.
 
 ---
 
@@ -79,11 +79,11 @@ Blockchain software professional with key expertise in the areas of Web 3.0 deve
 
 ---
 
-**Iliyan Markov**
+**Maxim Dimitrov**
 
-SVP Engineering
+Mobile Developer
 
-10+ years of experience in devops, cloud infrastructure, backend development, product development, network management and team management. Worked for companies listed on NASDAQ, worked for companies servicing the needs of the creative industry in the UK and US like Pinewood studios, Technicolor, Warner Bros, Bad Robot, Universal, Netflix etc. Currently working in the startup environment, building ideas from scratch in a search for that horse like creature with a single horn.
+Enjoys creative problem-solving projects. Currently a senior mobile developer, highly proficient with over 5 years of experience. Previously has been involved in crypto projects as a developer. Maxim has developed a wide range of mobile applications using Kotlin, Flutter, Swift. He believes his main skills come from the ability to learn quickly and efficiently, helping with project management, as well as the others from the team. In the Sugarverse he is responsible for designing, creating and implementing client facing web and mobile interfaces.
 
 ---
 
