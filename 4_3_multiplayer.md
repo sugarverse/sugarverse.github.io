@@ -2,7 +2,7 @@
 title: Multiplayer
 parent: Play-to-Earn games
 has_children: false
-nav_order: 4
+nav_order: 3
 ---
 
 # Multiplayer
@@ -19,4 +19,4 @@ Such reward mechanics make the PvP more rewarding than the PvE, however, a highe
 ---
 
 [<< Campaign](https://sugarverse.github.io/4_2_campaign.html){: .btn .mr-4 }
-[Guilds >>](https://sugarverse.github.io/4_4_guilds.html){: .btn }
+[Brawl endless mode >>](https://sugarverse.github.io/4_4_brawl_mode.html){: .btn }
