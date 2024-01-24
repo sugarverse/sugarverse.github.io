@@ -14,19 +14,12 @@ nav_order: 6
 
 The Sugarverse is always player first. Our focus is on building a Game-as-a-service model where features will be introduced over time.  When putting so much attention to player rewards we have developed several ways gamers will profit from the following:
 
-- Resale of NFT drops while in the metaverse
+- Resale of NFT drops
   - Avatars
-  - Land
-  - Buildings
-  - Spaceships Parts
-  - Build Spaceships
+  - Avatar cosmetics
 - Earn gCNDY rewards from gameplay
   - Single player achievement rewards
   - Multiplayer random rewards from wheel of fortune
-- Utilizing buildings within the metaverse
-  - Mining Platforms bring annual % yield
-  - Trading Terminals bring in % from marketplace fees
-  - Spaceships can bring in passenger transit or cargo rewards
 
 ---
 
@@ -57,7 +50,7 @@ CNDY token has burning functionality. Sum of burned tokens is decided by the com
 
 ## Staking
 
-Defi stake rewards are introduced at the beginning of the project, until the first planet is ready for its landowners and builders. CNDY tokens can be staked to generate returns and to make the metaverse progression faster for players.
+Defi stake rewards are introduced at the beginning of the project. CNDY tokens can be staked to generate returns and to make the game progression faster for players.
 
 ---
 
