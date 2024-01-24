@@ -1,8 +1,8 @@
 ---
 title: CNDY Boxes
-parent: Sugar metaverse elements and NFTs
+parent: Sugar Bear NFTs
 has_children: false
-nav_order: 5
+nav_order: 2
 ---
 
 # CNDY Boxes
@@ -13,5 +13,6 @@ Boxes contain rare NFT awards such as avatars, spaceship parts and buildings. De
 
 ---
 
-[<< Spaceship NFTs](https://sugarverse.github.io/3_4_spaceships.html){: .btn .mr-4 }
+<!-- [<< Spaceship NFTs](https://sugarverse.github.io/3_4_spaceships.html){: .btn .mr-4 } -->
+[<< Minting](https://sugarverse.github.io/3_2_minting.html){: .btn .mr-4 }
 [Marketplace >>](https://sugarverse.github.io/3_6_marketplace.html){: .btn }
