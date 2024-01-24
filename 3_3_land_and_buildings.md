@@ -1,8 +1,10 @@
 ---
 title: Land and buildings
-parent: Sugar metaverse elements and NFTs
-has_children: false
-nav_order: 3
+# parent: Sugar metaverse elements and NFTs
+# has_children: false
+# nav_order: 3
+nav_exclude: true
+search_exclude: true
 ---
 
 # Land and buildings
