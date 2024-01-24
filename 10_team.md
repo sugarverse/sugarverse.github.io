@@ -171,5 +171,5 @@ Sugarverse and XS Software combine in one joint venture company so our team cons
 
 ---
 
-[<< Tokenomics](https://sugarverse.github.io/8_tokenomics.html){: .btn .mr-4 }
+[<< Roadmap](https://sugarverse.github.io/09_roadmap.html){: .btn }
 [Advisors >>](https://sugarverse.github.io/11_advisors.html){: .btn }
