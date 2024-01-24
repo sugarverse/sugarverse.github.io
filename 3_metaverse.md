@@ -1,7 +1,9 @@
 ---
 title: Sugar metaverse elements and NFTs
-has_children: true
-nav_order: 4
+# has_children: true
+# nav_order: 4
+nav_exclude: true
+search_exclude: true
 ---
 
 # Sugar metaverse elements and NFTs
@@ -13,4 +15,4 @@ The Sugarverse is connected by intense plot, which offers a whole new experience
 ---
 
 [<< Market Overview](https://sugarverse.github.io/2_market_overview.html){: .btn .mr-4 }
-[Avatars >>](https://sugarverse.github.io/3_1_avatars.html){: .btn }
+[Sugar Bear NFTs >>](https://sugarverse.github.io/3_1_nfts.html){: .btn }
