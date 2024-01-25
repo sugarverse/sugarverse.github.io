@@ -20,6 +20,7 @@ The Sugarverse is always player first. Our focus is on building a Game-as-a-serv
 - Earn gCNDY rewards from gameplay
   - Single player achievement rewards
   - Multiplayer random rewards from wheel of fortune
+  - Endless Brawl rewards
 
 ---
 
@@ -35,10 +36,10 @@ Part of the marketplace fees, the multiplayer Play-to-earn game mode margin and 
 
 For now, these are the primary fees in the Sugarverse:
 
-- A 3% fee taken from successful sales on Sugarverse NFT assets.
-- A 2.5% Royalties fee taken from every successful sale of the NFTs, which got Royalties.
+- A 3% fee taken from successful sales on Sugarverse NFT assets
+- A 2.5% Royalties fee taken from every successful sale of the NFTs, which got Royalties
 - A 1% fee based on CNDY claimed will be charged in gCNDY
-- From the multiplayer rewards will be taken 7% as a margin from all buy-ins, paid in CNDY.
+- From the multiplayer rewards will be taken 7% as a margin from all buy-ins, paid in CNDY
 
 ---
 
