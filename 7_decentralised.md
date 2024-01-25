@@ -14,7 +14,7 @@ Our vision is for the Sugarverse to become autonomous. Tiers of voting for are:
 - Staking and stimulus
 - Infrastructure expansion
 - Burning mechanism
-- Capital and Corporate partnerships and more.
+- Capital and Corporate partnerships and more
 
 ---
 
