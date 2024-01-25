@@ -9,7 +9,7 @@ nav_order: 2
 
 Who doesn’t like a good old candy box full of tasty treats? Inside the Sugarverse players can discover CNDY Boxes or simply purchase them with their CNDY tokens.
 
-Boxes contain rare NFT awards such as avatars, spaceship parts and buildings. Depending on the box rarity level (3 levels overall), the loot inside it get more precious as the box gets more expensive. The boxes work on a random principle so even the cheapest boxes can drop the most lucrative prizes, but the chances are much lower.
+Boxes contain rare NFT awards such as avatars and cosmetics or gCNDY and CNDY rewards. Depending on the box rarity level (3 levels overall), the loot inside it get more precious as the box gets more expensive. The boxes work on a random principle so even the cheapest boxes can drop the most lucrative prizes, but the chances are much lower.
 
 ---
 
