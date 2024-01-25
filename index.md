@@ -18,7 +18,7 @@ Official Sugarverse Whitepaper
 
 ## Introduction
 
-The Sugarverse team is building a unique Game Saga with 5 integrated mobile casual. The team behind Sugarverse has previously developed 10 mobile games, published in 30+ languages, and attracted over 60 million players worldwide since 2005. The team is highly experienced and passionate about delivering the ultimate gaming experience available on the market. With previous experience in blockchain, game development, 2D and 3D art, marketing, and real-world company management we are positioned for success from day one. Building on top of successful careers in XS Software, Gameloft, Ubisoft, CrazyLabs and successfully running crypto and technology startups, the experienced team can launch, execute, and grow an exciting Web 3.0 game saga that will consist of Play-And-Earn games, NFTs, DAO and DeFi.
+The Sugarverse team is building a unique Game Saga with 5 integrated mobile casual games, where players can monetize their gaming experience using our native token CNDY. The team behind Sugarverse has previously developed 10 mobile games, published in 30+ languages, and attracted over 60 million players worldwide since 2005. The team is highly experienced and passionate about delivering the ultimate gaming experience available on the market. With previous experience in blockchain, game development, 2D and 3D art, marketing, and real-world company management we are positioned for success from day one. Building on top of successful careers in XS Software, Gameloft, Ubisoft, CrazyLabs and successfully running crypto and technology startups, the experienced team can launch, execute, and grow an exciting Web 3.0 game saga that will consist of Play-And-Earn games, NFTs, DAO and DeFi.
 
 ---
 
