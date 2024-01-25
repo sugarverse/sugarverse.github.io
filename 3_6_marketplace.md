@@ -7,7 +7,7 @@ nav_order: 3
 
 # Marketplace
 
-One of the main features is a virtual marketplace where players can buy and sell their NFTs:
+One of the main features is a virtual marketplace where players can buy and sell their NFTs.
 
 ---
 
