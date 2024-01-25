@@ -7,7 +7,9 @@ nav_order: 1
 
 # Minting
 
-Avatar-Minting Event (AME) is when users use 2 Avatars they own as a blueprint to “breed”, producing an Avatar Box in the process. For reference, the 2 Avatars will be called Primes (Parents). Both Primes need to be in the user’s possession (not under lease) and  to begin an AME. Users can then select an Avatar, by heading to the Mint tab, choosing the Avatar to “breed” with, and pressing Mint to proceed. The user will instantly receive an Avatar Box that can be opened immediately. Users can perform a maximum of 5 AMEs per Avatar. The higher AME count an Avatar has, the more CNDY it will cost. Avatar-Minting costs for each Prime are calculated separately and added together for the final Minting cost. Avatar-Minting has a 48-hour cool down for both Primes – Avatar can still be used for games.
+Avatar-Minting Event (AME) is when users use 2 Avatars they own as a blueprint to “breed”, producing an Avatar Box in the process. For reference, the 2 Avatars will be called Primes (Parents). Both Primes need to be in the user’s possession (not under lease) and  to begin an AME. Users can then select an Avatar, by heading to the Mint tab, choosing the Avatar to “breed” with, and pressing Mint to proceed.
+
+The user will instantly receive an Avatar Box that can be opened immediately. Users can perform a maximum of 5 AMEs per Avatar. The higher AME count an Avatar has, the more CNDY it will cost. Avatar-Minting costs for each Prime are calculated separately and added together for the final Minting cost. Avatar-Minting has a 48-hour cool down for both Primes – Avatar can still be used for games.
 
 ---
 
