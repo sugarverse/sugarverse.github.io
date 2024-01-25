@@ -8,8 +8,8 @@ nav_order: 1
 # Sugar Match - the first game
 
 Explore our first play-to-earn mobile game in PvP or PvE mode. Choose a NFT Avatar then play against your opponents on a match 3 board game throughout the planet. Experience the sugar match alone or earn special rewards together with your guild.
-‍
-Available in: Free-to-Play and Play-and-Earn
+
+Available in: Free-to-Play and Play-and-Earn.
 
 ---
 
