@@ -39,8 +39,8 @@ Initial Circulating Supply:	181 000 000 CNDY
 | Liquidity | 8.33% | 500 000 000 | 25% TGE rest vesting 12 months |
 | Angel | 2.60% | 156 000 000 | 10% TGE, cliff 6 months, vesting period 12 months |
 | Seed | 10.33% | 620 000 000 | 10% TGE, cliff 6 months, vesting period 12 months |
-| Private | 20.83% | 280 000 000 | 15% TGE, cliff 6 months, vesting period 12 months |
-| Public | 4.67% | 2 200 000 000 | 20% TGE, cliff 3 months,  vesting period 6 months |
+| Private | 20.83% | 2 200 000 000 | 15% TGE, cliff 6 months, vesting period 12 months |
+| Public | 4.67% | 280 000 000 | 20% TGE, cliff 3 months,  vesting period 6 months |
 | Gameplay | 21.57% | 1 294 000 000 | Vesting next 48 months |
 | Total | 100% | 6 000 000 000 | |
 
