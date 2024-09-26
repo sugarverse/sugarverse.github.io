@@ -14,7 +14,7 @@ Official Sugarverse Whitepaper
 
 <!-- ![Sugarverse](/assets/sugarverse-intro-v2.png) -->
 
----
+<!-- --- -->
 
 ## Introduction
 
