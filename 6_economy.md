@@ -28,7 +28,7 @@ The Sugarverse is always player first. Our focus is on building a Game-as-a-serv
 
 CNDY is a governance token and allows holders to participate in governance decisions with the Community Treasury, using a DAO structure.
 
-Part of the marketplace fees, the multiplayer Play-to-earn game mode margin and part of the NFT minting price is accumulating in the Community Treasury.
+Part of the marketplace fees, the multiplayer Play-and-earn game mode margin and part of the NFT minting price is accumulating in the Community Treasury.
 
 ---
 

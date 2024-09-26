@@ -7,9 +7,9 @@ nav_order: 2
 
 # Campaign Mode
 
-Campaign is PvE (Player vs Environment) mode designed for players who do not wish to engage in PvP or want to grind experience, NFTs and gCNDY token rewards. The adventures a player can experience are endless with computer generated levels, giving the players endless engagement.
+Campaign is PvE (Player vs Environment) mode designed for players who do not wish to engage in PvP or want to grind experience, NFTs and gCNDY token rewards. The adventures a player can experience are improving player skills, giving the players huge engagement. Levels become more complex and offer better rewards as difficulty increases.
 
-Levels become more complex and offer better rewards as difficulty increases. Campaign can be played in both Free-to-Play and Play-and-Earn. Free-to-Play means that players do not need to invest any money to play the games, the only thing they need to commit is time and effort. The game design is such that players with any skill cap can earn rewards, not just the top % of gamers.
+Campaign can be played in both Free-to-Play and Play-and-Earn. Free-to-Play means that players do not need to invest any money to play the games, the only thing they need to commit is time and effort. The game design is such that players with any skill cap can earn rewards, not just the top % of gamers.
 
 ---
 

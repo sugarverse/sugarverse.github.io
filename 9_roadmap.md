@@ -8,68 +8,68 @@ nav_order: 9
 
 # Roadmap
 
-## Q3 2023
+## September 2024
 
-Beginning
+ - NFT cards Visual Update
+ - GUI Visual Update
+ - Booster GUI Visual Update 1/3
+ - Etherlink Integration
 
- - Website Release
- - Sugar Match trailer
- - Sugar Bears Club
+## October 2024
 
-## Q4 2023
+ - Backend data collection optimisation
+ - Booster GUI Visual Update 2/3
+ - GUI and Booster GUI Asset Integration
+ - Beta release to ambassadors and maybe additional small group of people
 
-Alpha game
+## November 2024
 
- - Alpha Game testing
- - 1,000 Alpha Testers
- - Early Adopters
+ - Open Beta Feedback Report
+ - Booster GUI Visual Update 3/
+ - Booster VFX Visual Update 1/3
 
-## Q1 2024
+## December 2024
 
-Private sale
+ - Booster VFX Visual Update 2/3
+ - Booster GUI & VFX Asset Integration 1/2
 
- - 2,000 Alpha Testers
- - Private sale
+## January 2025
 
-## Q2 2024
+ - Booster VFX Visual Update 3/3
+ - Booster GUI & VFX Asset Integration 2/2
+ - Booster Feedback and Balancing
 
-Public sale
+## February - March 2025
 
- - 10k NFT Avatar Sales
- - Guild Partnerships
- - TGE - Listing on Tier1 CEX and DEX
+ - NFT Collection release3
+ - All Boosters Launched
+ - Official Game Release
 
-## Q3 2O24
+## Q2 2025
 
-Game Launch
+ - Official Release Feedback Report
+ - Seasonal Lobbies
+ - Guilds Release
+ - Single Player Release
+ - In Game Quests Release (Dailies, Weeklies, Monthlies)
+ - Ongoing Single Player Expansion
 
- - Sugar Match Game Launch
- - 15k DAU
- - Marketing & PR
+## 2026
 
-## Q4 2024
+ - Release of Second Game - 2m Downloads
 
-Early Growth
+## 2027
 
- - Additional features added Sugar Match
- - 30k DAU
-- Alpha Game 2
+ - Release of Third Game - 10m Downloads
 
-## 2025
+## 2028
 
-Growth
+ - Release of Forth Game - 25m Downloads
 
- - Game 2 Launch
- - Game 3 Launch
- - 100k DAU
+## 2029
 
-## 2O26
+ - Release of Fifth Game - 100m Downloads
 
-Growth Phase 2
-
- - Game 4 Launch
- - Game 5 Launch
- - 230k DAU
 
 ---
 

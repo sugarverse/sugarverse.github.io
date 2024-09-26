@@ -10,6 +10,22 @@ Previously released successful crypto projects, companies and games, our advisor
 
 ---
 
+**Jeff Nowak**
+
+Maven Capital
+
+Software engineer with over a decade of experience AI,IoT, and Web3, Jeff offers  founders strategic advisory and GTM expertise. He has worked with top blockchain projects including Filecoin, IPFS, R3, Polygon, KCC, Telos, and more, with a focus on collaborative innovation that results in mass adoption.
+
+---
+
+**Sundeep K. Siripurapu**
+
+Trustswap
+
+Core Team Member of TrustSwap. Designed tokenomics for various projects and/or serving as a strategic advisor/consultant for over 30+ projects encompassing DeFi, GameFi and Layer-1 protocols.
+
+---
+
 **Nikola Alexandrov**
 
 Nikola is a co-founder and ideator of HydraChain (HYDRA) and CEO of LockTrip.com (LOC). He has seven years of experience with liquidity and HFT systems. He co-founded the Bitcoin7 exchange, top 3 by volume back in 2011. CEO of theSEO.bg agency. Nikola holds a BA in Business Administration from Portsmouth University.

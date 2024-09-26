@@ -71,6 +71,14 @@ Loves to play and create games. With more than 19 years of experience in the gam
 
 ---
 
+**Damien Kesler**
+
+Marketing Manager
+
+Dynamic and results-oriented professional with extensive experience in Web3, marketing, and blockchain industries. Proven track record in community building, organic marketing strategies, and generating substantial sales volumes. Passionate about integrating innovative solutions in digital marketing, project management, and business development.
+
+---
+
 **Stanislav Trenev**
 
 Head of Blockchain
