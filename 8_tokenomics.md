@@ -45,13 +45,13 @@ Initial Circulating Supply:	316 933 333 CNDY
 | Gameplay | 22.12% | 1 327 333 334 | Vesting next 48 months |
 | Total | 100% | 6 000 000 000 | |
 
-<!-- --- -->
+---
 
-<!-- ![cycle](/assets/token_metrics.png) -->
+![cycle](/assets/prod-tokenomics-wheel.png)
 
-<!-- --- -->
+---
 
-<!-- ![cycle](/assets/release.png) -->
+![cycle](/assets/prod-tokenomics-chart.png)
 
 ---
 
