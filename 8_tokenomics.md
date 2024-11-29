@@ -51,7 +51,7 @@ Initial Circulating Supply:	30 344 000 CNDY
 
 ---
 
-![cycle](/assets/prod-tokenomics-chart.png)
+<!-- ![cycle](/assets/prod-tokenomics-chart.png) -->
 
 ---
 
