@@ -16,34 +16,34 @@ CNDY token will be connected with the in-game currency gCNDY. Players can claim 
 
 Token ticker: CNDY
 
-Total supply:	6 000 000 000 CNDY
+Total supply:	1 000 000 000 CNDY
 
-Initial Circulating Supply:	316 933 333 CNDY
+Initial Circulating Supply:	30 344 000 CNDY
 
 - Team. These tokens are allocated to founding and non-founding members of Sugarverse.
 - Partners and advisors. These tokens are allocated to our most valuable partners and advisors.
 - Airdrop
 - Marketing. These tokens will be used for various ecosystem-building initiatives, including marketing, bounties, incentive programs and more.
 - Liquidity. These tokens will be used for adding liquidity on exchanges/marketplace.
-- Angel, Seed, Private, KOL and Public sale. These tokens will be reserved for the different tiers of the sale.
+- Seed, Private 1, Private 2, KOL and Public sale. These tokens will be reserved for the different tiers of the sale.
 - Gameplay. These tokens will be used to incentivize those players who earn tokens by participating in activities in the game. This design is to encourage user participation and to maintain traction.
 
 ---
 
 | Party | Percentage | Total tokens | Vesting |
 | ------------- | ------------- | ------------- | ------------- |
-| Team | 16.67% | 1 000 000 000 | 1 year locked, rest vesting next 12 months |
-| Partners & Advisors | 5% | 300 000 000 | 1 year locked, rest vested next 12 months |
-| Airdrop | 3% | 180 000 000 | 1 month cliff, vesting 48 months |
-| Marketing | 7% | 420 000 000 | 1 month cliff, vesting 48 months |
-| Liquidity | 10% | 600 000 000 | 25% TGE rest vesting 12 months |
-| Angel | 2.60% | 156 000 000 | 10% TGE, cliff 6 months, vesting period 12 months |
-| Seed | 10.33% | 620 000 000 | 10% TGE, cliff 6 months, vesting period 12 months |
-| Private | 13.33% | 800 000 000 | 15% TGE, cliff 3 months, vesting period 9 months |
-| KOL| 2.17% | 130 000 000 | 20% TGE, cliff 1 months, vesting period 6 months |
-| Public | 7.78% | 466 666 666 | 20% TGE, cliff 1 months,  vesting period 6 months |
-| Gameplay | 22.12% | 1 327 333 334 | Vesting next 48 months |
-| Total | 100% | 6 000 000 000 | |
+| Team | 15.00% | 150 000 000 | 1 year locked, rest vesting next 12 months |
+| Partners & Advisors | 5% | 50 000 000 | 1 year locked, rest vested next 12 months |
+| Airdrop | 3% | 30 000 000 | |
+| Marketing | 7% | 70 000 000 | 1 month cliff, vesting 48 months |
+| Liquidity | 10% | 100 000 000 | 25% TGE rest vesting 12 months |
+| Seed | 12.94% | 129 440 000 | 10% TGE, cliff 6 months, vesting period 12 months |
+| Private 1 | 3.33% | 33 333 333 | 10% TGE, cliff 6 months, vesting period 12 months |
+| Private 2 | 14.67% | 146 666 667 | 0% TGE, cliff 1 months, vesting period 6 months |
+| KOL| 0.31% | 3 142 857 | 20% TGE, cliff 1 months, vesting period 6 months |
+| Public | 6.67% | 66 666 667 | 20% TGE, cliff 1 months,  vesting period 6 months |
+| Gameplay | 22.08% | 220 750 476 | 1 year locked, rest vested next 48 months |
+| Total | 100% | 1 000 000 000 | |
 
 ---
 
