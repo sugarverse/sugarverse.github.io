@@ -34,15 +34,15 @@ Initial Circulating Supply:	30 344 000 CNDY
 | ------------- | ------------- | ------------- | ------------- |
 | Team | 15.00% | 150 000 000 | 1 year locked, rest vesting next 12 months |
 | Partners & Advisors | 5% | 50 000 000 | 1 year locked, rest vested next 12 months |
-| Airdrop | 3% | 30 000 000 | |
-| Marketing | 7% | 70 000 000 | 1 month cliff, vesting 48 months |
+| Airdrop | 3% | 30 000 000 | 1 month cliff, rest vesting 2 months |
+| Marketing | 7% | 70 000 000 | 1 month cliff, 30% rest vesting 24 months |
 | Liquidity | 10% | 100 000 000 | 25% TGE rest vesting 12 months |
 | Seed | 12.94% | 129 440 000 | 10% TGE, cliff 6 months, vesting period 12 months |
 | Private 1 | 3.33% | 33 333 333 | 10% TGE, cliff 6 months, vesting period 12 months |
-| Private 2 | 14.67% | 146 666 667 | 0% TGE, cliff 1 months, vesting period 6 months |
-| KOL| 0.31% | 3 142 857 | 20% TGE, cliff 1 months, vesting period 6 months |
-| Public | 6.67% | 66 666 667 | 20% TGE, cliff 1 months,  vesting period 6 months |
-| Gameplay | 22.08% | 220 750 476 | 1 year locked, rest vested next 48 months |
+| Private 2 | 14.67% | 146 666 667 | 0% TGE, cliff 1 month, vesting period 6 months |
+| KOL| 0.37% | 3 666 667 | 20% TGE, cliff 1 month, vesting period 6 months |
+| Public | 6.67% | 66 666 667 | 20% TGE, cliff 1 month,  vesting period 6 months |
+| Gameplay | 22.02% | 220 226 666 | 3 months locked, rest vested next 24 months |
 | Total | 100% | 1 000 000 000 | |
 
 ---
