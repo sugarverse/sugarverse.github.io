@@ -9,7 +9,7 @@ search_exclude: true
 
 # Spaceship NFTs
 
-Spaceships are the main interplanetary transport links. Obtaining a spaceship is no easy task, however, the rewards it reaps are worth it. Each spaceship consists of multiple NFT modules. Those components are all gameplay drops from the Play-to-Earn games and also can be found from your Underground Research Centers.
+Spaceships are the main interplanetary transport links. Obtaining a spaceship is no easy task, however, the rewards it reaps are worth it. Each spaceship consists of multiple NFT modules. Those components are all gameplay drops from the Play-and-Earn games and also can be found from your Underground Research Centers.
 
 There are three main ship types:
 
