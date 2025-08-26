@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Overall Gaming Industry
 
-With aggressive demand the emergence of play-to-earn games has exponentially increased the expected CAGR for the gaming industry, conservative growth estimates begin from 9.34% expected CAGR heading north of 13.20% for the period 2021 to 2026. A common factor explaining the growth among all statistics is the Web 3.0. The idea for true ownership, digital scarcity and monetization has wet the appetite for both existing and new gamers which has pushed the industry into exponential growth potential. At the end of 2022, the global gaming market was reportedly worth $184 billion; it is now expected to top $212 billion by 2026. This makes it one of the hottest markets on the planet.
+With aggressive demand the emergence of play-and-earn games has exponentially increased the expected CAGR for the gaming industry, conservative growth estimates begin from 9.34% expected CAGR heading north of 13.20% for the period 2021 to 2026. A common factor explaining the growth among all statistics is the Web 3.0. The idea for true ownership, digital scarcity and monetization has wet the appetite for both existing and new gamers which has pushed the industry into exponential growth potential. At the end of 2022, the global gaming market was reportedly worth $184 billion; it is now expected to top $212 billion by 2026. This makes it one of the hottest markets on the planet.
 
 ---
 
@@ -26,7 +26,7 @@ Mobile has become the largest distribution channel for games - 64.4% of the tota
 
 Traditionally gaming has always been a one-sided relationship, where the developers or owners of a game get the financial gains, while players are not financially rewarded. The perception about games was that they were just a way of having fun.
 
-However, a new economic model has emerged, which rewards players in exchange for their time spent on playing the game, it is called play-to-earn. This model has become incredibly popular in the Web 3.0 vision.
+However, a new economic model has emerged, which rewards players in exchange for their time spent on playing the game, it is called play-and-earn. This model has become incredibly popular in the Web 3.0 vision.
 
 Web3 gaming is one of the most exciting areas within the ever-growing crypto space. The global web3 games market size is projected to reach USD 3618.4 million by 2028, from USD 755 million in 2021. The web3 gaming model embraces the idea of an open economy and financially rewards every user who adds value by playing and spending time in the gaming ecosystem. With the emergence of this model games are no longer “just for fun” and now are perceived as investment opportunities.
 
