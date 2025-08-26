@@ -6,7 +6,11 @@ nav_order: 12
 
 # Partners
 
-Disclaimer
+- Tezos Foundation
+- Etherlink
+- Trustswap
+- Elfshock
+- Mexc
 
 ---
 
