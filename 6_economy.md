@@ -12,15 +12,15 @@ nav_order: 6
 
 ---
 
-The Sugarverse is always player first. Our focus is on building a Game-as-a-service model where features will be introduced over time.  When putting so much attention to player rewards we have developed several ways gamers will profit from the following:
+The Sugarverse is always player-first. Our focus is on building a Game-as-a-Service model where features will be introduced over time. When putting so much attention to player rewards, we have developed several ways gamers will profit from the following:
 
 - Resale of NFT drops
   - Avatars
   - Avatar cosmetics
 - Earn gCNDY rewards from gameplay
-  - Single player achievement rewards
-  - Multiplayer random rewards from wheel of fortune
-  - Endless Brawl rewards
+  - Rumble mode achievement rewards
+  - Arena mode random rewards from wheel of fortune
+  - VIB mode whale rewards
 
 ---
 
@@ -28,7 +28,7 @@ The Sugarverse is always player first. Our focus is on building a Game-as-a-serv
 
 CNDY is a governance token and allows holders to participate in governance decisions with the Community Treasury, using a DAO structure.
 
-Part of the marketplace fees, the multiplayer Play-and-earn game mode margin and part of the NFT minting price is accumulating in the Community Treasury.
+Part of the marketplace fees, the multiplayer Play-and-earn game mode margin, and part of the NFT minting price are accumulating in the Community Treasury.
 
 ---
 
@@ -36,16 +36,16 @@ Part of the marketplace fees, the multiplayer Play-and-earn game mode margin and
 
 For now, these are the primary fees in the Sugarverse:
 
-- A 3% fee taken from successful sales on Sugarverse NFT assets
-- A 2.5% Royalties fee taken from every successful sale of the NFTs, which got Royalties
+- A 3% fee is taken from successful sales on Sugarverse NFT assets.
+- A 2.5% Royalties fee is taken from every successful sale of the NFTs, which get Royalties.
 - A 1% fee based on CNDY claimed will be charged in gCNDY
-- From the multiplayer rewards will be taken 7% as a margin from all buy-ins, paid in CNDY
+- From the Arena and VIB modes, rewards will be taken 7% as a margin from all buy-ins, paid in CNDY.
 
 ---
 
 ## Burning
 
-CNDY token has burning functionality. Sum of burned tokens is decided by the community.
+CNDY token has a burning functionality. The sum of burned tokens is decided by the community.
 
 ---
 
