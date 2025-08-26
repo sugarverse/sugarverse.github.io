@@ -37,4 +37,4 @@ The new avatar type is determined by the two Prime avatar types:
 
 [<< Sugar Bear NFTs](https://sugarverse.github.io/3_nfts.html){: .btn .mr-4 }
 <!-- [Land and buildings >>](https://sugarverse.github.io/3_3_land_and_buildings.html){: .btn } -->
-[CNDY Boxes >>](https://sugarverse.github.io/3_5_cndy_boxes.html){: .btn }
+[Pinatas >>](https://sugarverse.github.io/3_5_cndy_boxes.html){: .btn }
