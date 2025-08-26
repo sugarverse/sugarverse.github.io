@@ -2,13 +2,13 @@
 title: Roadmap
 has_children: false
 nav_order: 9
-# nav_exclude: true
-# search_exclude: true
+nav_exclude: true
+search_exclude: true
 ---
 
 # Roadmap
 
-## September 2024
+<!-- ## September 2024
 
  - NFT cards Visual Update
  - GUI Visual Update
@@ -68,7 +68,7 @@ nav_order: 9
 
 ## 2029
 
- - Release of Fifth Game - 100m Downloads
+ - Release of Fifth Game - 100m Downloads -->
 
 
 ---
