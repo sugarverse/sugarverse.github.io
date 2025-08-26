@@ -122,5 +122,6 @@ Incredibly passionate about graphic design and focused on the UI/UX part of the 
 
 ---
 
-[<< Roadmap](https://sugarverse.github.io/9_roadmap.html){: .btn }
+[<< Tokenomics](https://sugarverse.github.io/8_tokenomics.html){: .btn .mr-4 }
+<!-- [<< Roadmap](https://sugarverse.github.io/9_roadmap.html){: .btn } -->
 [Advisors >>](https://sugarverse.github.io/11_advisors.html){: .btn }
