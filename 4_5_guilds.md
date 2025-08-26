@@ -1,6 +1,6 @@
 ---
 title: Guilds
-parent: Play-to-Earn games
+parent: Play-and-Earn games
 has_children: false
 nav_order: 5
 ---
