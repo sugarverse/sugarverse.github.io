@@ -1,13 +1,13 @@
 ---
 title: Sugar Match PvP - the first game
-parent: Play-to-Earn games
+parent: Play-and-Earn games
 has_children: false
 nav_order: 1
 ---
 
 # Sugar Match PvP - the first game
 
-Explore our first play-to-earn mobile game in PvP mode. Choose an Avatar, then play against your opponents on a match-3 board game throughout the planet. Experience the Sugar MatchPvP alone or earn special rewards together with your guild.
+Explore our first play-and-earn mobile game in PvP mode. Choose an Avatar, then play against your opponents on a match-3 board game throughout the planet. Experience the Sugar MatchPvP alone or earn special rewards together with your guild.
 ‍
 Available in: Free-to-Play and Play-and-Earn
 
